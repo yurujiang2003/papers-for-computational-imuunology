@@ -19,6 +19,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 - [Cancer Immunology](#cancer-immunology)
 - [Model and Technology](#model-and-technology)
     - [protein language model](#model-and-technology)
+- [Covid 19](#covid-19)
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
@@ -151,6 +152,20 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
 - 
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
+## Covid-19
+- [Structure of the SARS-CoV-2 spike receptor-binding domain bound to the ACE2 receptor](https://www.nature.com/articles/s41586-020-2180-5)<br>
+    -Nature<br>
+    -Published: 30 March 2020<br>
+    -DOI: http://dx.doi.org/10.1038/s41586-020-2180-5"<br>
+    `SARS-COV-2` `ACE2` `spike protein` `receptor-binding domain` `crystal structure`
+
+
+- [Science | Structural basis for inhibition of the RNA-dependent RNA polymerase from SARS-CoV-2 by remdesivir](./File/小分子瑞德西韦抑制RdRp的结构基础.md) (202006)
+    -Science<br>
+    -Published: 
+    -DOI: https://doi.org/10.1126/science.abc1560<br>
+    `SARS-COV-2` `RdRp` `remdesivir` `crystal structure`
+
 
 
 
