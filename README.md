@@ -5,3 +5,8 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn].<br>
 >Any contributions and suggestions are welcome!<br>
 
 >**Note**: The papers are sorted by their themes and the time they are published.
+hr {
+    border: none;
+    height: 3px;
+    background-image: linear-gradient(to right, #ff5733, #33d9ff); /* 渐变色 */
+}
