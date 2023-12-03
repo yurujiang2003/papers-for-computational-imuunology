@@ -1,2 +1,1 @@
-# Journal-Club-iqb
-cancer immunology &amp; computational biology
+# Papers on cancer immunology
