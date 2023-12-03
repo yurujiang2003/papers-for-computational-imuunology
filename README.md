@@ -39,10 +39,45 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn].<br>
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
+- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)
+    -PNAS<br>
+    -Published: 23 January 2020<br>
+    -DOI: https://doi.org/10.1073/pnas.1914308117
+    `Celiac Disease` `HLA-DQ2.2` `TCR` `Immunogenicity` `Gliadin Peptides`
+
+- [Impact of Cysteine Residues on MHC Binding Predictions and Recognition by Tumor-Reactive T Cells](https://journals.aai.org/jimmunol/article/205/2/539/110175?casa_token=6XLQ4nJDd5MAAAAA:EpLWn0bx5osgeP1LOpCEQMVE34JJkOuOUUo_yZejq2pE7deTNxUjZlRjElPAVajGlV1Brg)<br>
+    -the Journal of Immunology<br>
+    -Published: 15 July 2020<br>
+    -DOI: https://doi.org/10.4049/jimmunol.1901173<br>
+    `MHC` `T cell` `cysteine residues``binding predictions`
+
+- [Specific Genetic Polymorphisms Contributing in Differential Binding of Gliadin Peptides to HLA-DQ and TCR to Elicit Immunogenicity in Celiac Disease](https://link.springer.com/article/10.1007/s10528-023-10377-x#Abs1)<br>
+    -Biochemical Genetics<br>
+    -Published: 27 April 2023<br>
+    -DOI: https://doi.org/10.1007/s10528-023-10377-x<br>
+    `Celiac Disease` `HLA-DQ` `TCR` `Immunogenicity` `Gliadin Peptides`
+
+- [Quantitative approaches for decoding the specificity of the human T cell repertoire](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10539903/)<br>
+    -frontiers in immunology<br>
+    -Published: 7 September 2023<br>
+    -DOI: https://doi.org/10.3389%2Ffimmu.2023.1228873<br>
+    `T cell` `TCR` `specificity` `quantitative approaches`
+
+- [Targeting of intracellular oncoproteins with peptide-centric CARs](https://www.nature.com/articles/s41586-023-06706-0)<br>
+    -nature<br>
+    -Published: 08 November 2023<br>
+    -DOI: https://doi.org/10.3389%2F<br>
+    `peptide-centric chimeric antigen receptors `
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #193441, #FCFFF5);">
 
 ## Model and Technology
+- [Neural relational inference to learn long-range allosteric interactions in proteins from molecular dynamics simulations](https://www.nature.com/articles/s41467-022-29331-3)<br>
+    -nature communications<br>
+    -Published: 29 March 2022<br>
+    -DOI: https://doi.org/10.1038/s41467-022-29331-3<br>
+    `protein` `allosteric interactions` `molecular dynamics simulations` `neural network`
+
 - [Chemical complexity challenge: Is multi-instance machine learning a solution?](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1698)<br>
     -WIREs Computational Molecular Science<br>
     -Published: 27 November 2023<br>
@@ -56,5 +91,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn].<br>
     -DOI: https://doi.org/10.1101/2023.11.28.569077<br>
     -reviewed by Kevin Chan: 他们认为他们解决了negative data bias问题,文章写得很简短 也很清晰<br>
     `TCR` `machine learning` `negative data bias`
+
+- 
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
