@@ -10,27 +10,48 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 
 ## Content
 - [Reviews and Surveys](#reviews-and-surveys)
+    - [R-Intrinsic Disordered Protein](#r-intrinsic-disordered-protein)
+    - [R-Model and Technology](#r-model-and-technology)
+        - [R-Protein Language Model](#r-protein-language-model)
+        - [R-Drug Design](#r-drug-design)
 - [Intrinsic Disordered Protein](#intrinsic-disordered-protein)
 - [Cancer Immunology](#cancer-immunology)
 - [Model and Technology](#model-and-technology)
-
+    - [protein language model](#model-and-technology)
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Reviews-and-surveys
+
+### R Intrinsic Disordered Protein
+
+### R Model and Technology
+#### R Protein Language Model
+- [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)<br>
+    -Nature Machine Learning<br>
+    -Published: 22 June 2022<br>
+    -DOI: https://doi.org/10.1038/s42256-022-00499-z<br>
+    `protein language model` `protein design` `deep learning`
+
+- [Linguistically inspired roadmap for building biologically reliable protein language models](https://www.nature.com/articles/s42256-023-00637-1)<br>
+    -Nature Machine Learning<br>
+    -Published: 06 April 2023<br>
+    -DOI: https://doi.org/10.1038/s42256-023-00637-1<br>
+    `protein language model` `protein design` `deep learning`
+
 - [On scientific understanding with artificial intelligence](https://www.nature.com/articles/s42254-022-00518-3)<br>
     -nature reviews physics <br>
     -Published: 11 October 2022<br>
     -DOI: https://doi.org/10.1038/s42254-022-00518-3<br>
     `scientific understanding` `artificial intelligence`
 
+#### R Drug Design
 - [Deep Generative Molecular Design Reshapes Drug Discovery](https://www.cell.com/cell-reports-medicine/pdf/S2666-3791(22)00349-4.pdf)<br>
     -Cell Reports Medicine<br>
     -Published: 20 December 2022<br>
     -DOI: https://doi.org/10.1016/j.xcrm.2022.100794<br>
     `generative model` `drug design` `deep learning`
 
--
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #193441, #FCFFF5);">
 
@@ -72,6 +93,19 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #193441, #FCFFF5);">
 
 ## Model and Technology
+### protein language model
+- [ProtGPT2 is a deep unsupervised language model for protein design](https://www.nature.com/articles/s41467-022-32007-7)<br>
+    -nature communications<br>
+    -Published: 27 July 2022<br>
+    -DOI: https://doi.org/10.1038/s41467-022-32007-7<br>
+    `protein language model` `protein design` `deep learning`
+
+- [Efficient evolution of human antibodies from general protein language models](https://www.nature.com/articles/s41587-023-01763-2)<br>
+    -Nature Biotechnology<br>
+    -Published: 24 April 2023<br>
+    -DOI: https://doi.org/10.1038/s41587-023-01763-2<br>
+    `protein language model` `antibody design` `deep learning`
+
 - [Neural relational inference to learn long-range allosteric interactions in proteins from molecular dynamics simulations](https://www.nature.com/articles/s41467-022-29331-3)<br>
     -nature communications<br>
     -Published: 29 March 2022<br>
@@ -95,3 +129,15 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 - 
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
+
+
+
+
+
+
+
+
+
+
+
+
