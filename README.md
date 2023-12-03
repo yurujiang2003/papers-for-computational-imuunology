@@ -63,7 +63,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
-- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
+- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)
     -PNAS<br>
     -Published: 23 January 2020<br>
     -DOI: https://doi.org/10.1073/pnas.1914308117<br>
@@ -81,11 +81,30 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
     -DOI: https://doi.org/10.1007/s10528-023-10377-x<br>
     `Celiac Disease` `HLA-DQ` `TCR` `Immunogenicity` `Gliadin Peptides`
 
+- [Pan-KRAS inhibitor disables oncogenic signalling and
+tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
+    -nature<br>
+    -Published: 31 May 2023<br>
+    -DOI: https://doi.org/10.1038/s41586-023-06123-3<br>
+    `KRAS` `pan-KRAS inhibitor` `oncogenic signalling` `tumour growth`
+
+- [Chemical remodeling of a cellular chaperone to target the active state of mutant KRAS](https://www.science.org/doi/full/10.1126/science.adg9652?casa_token=YZtzYJhYntkAAAAA%3A7WsUudgDlDa7X4etI_e0axz0QsYmWa7wjhMeFC_aYvrMhx0O7_gMCDCLxzsYXIYm6RfN-hmPzYiA)<br>
+    -Science<br>
+    -Published: 17 August 2023<br>
+    -DOI: https://doi.org/10.1126/science.adg9652<br>
+    `KRAS` `chemical remodeling` `chaperone`
+
 - [Quantitative approaches for decoding the specificity of the human T cell repertoire](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10539903/)<br>
     -frontiers in immunology<br>
     -Published: 7 September 2023<br>
     -DOI: https://doi.org/10.3389%2Ffimmu.2023.1228873<br>
     `T cell` `TCR` `specificity` `quantitative approaches`
+
+- [Cancer- and infection-induced T cell exhaustion are distinct](https://www.nature.com/articles/s41590-023-01624-9)<br>
+    -nature immunology<br>
+    -Published: 14 November 2023<br>
+    -DOI: https://doi.org/10.1038/s41590-023-01624-9<br>
+    `T cell` `exhaustion` `cancer` `infection`
 
 - [Targeting of intracellular oncoproteins with peptide-centric CARs](https://www.nature.com/articles/s41586-023-06706-0)<br>
     -nature<br>
