@@ -161,12 +161,6 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     `SARS-COV-2` `ACE2` `spike protein` `receptor-binding domain` `crystal structure`
 
 
-- [Science | Structural basis for inhibition of the RNA-dependent RNA polymerase from SARS-CoV-2 by remdesivir](./File/小分子瑞德西韦抑制RdRp的结构基础.md) (202006)
-    -Science<br>
-    -Published: 
-    -DOI: https://doi.org/10.1126/science.abc1560<br>
-    `SARS-COV-2` `RdRp` `remdesivir` `crystal structure`
-
 
 
 
