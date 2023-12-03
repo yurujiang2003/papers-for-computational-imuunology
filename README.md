@@ -68,7 +68,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
-- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)
+- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
     -PNAS<br>
     -Published: 23 January 2020<br>
     -DOI: https://doi.org/10.1073/pnas.1914308117<br>
