@@ -87,7 +87,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
     `Celiac Disease` `HLA-DQ` `TCR` `Immunogenicity` `Gliadin Peptides`
 
 - [Pan-KRAS inhibitor disables oncogenic signalling and
-tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
+tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -nature<br>
     -Published: 31 May 2023<br>
     -DOI: https://doi.org/10.1038/s41586-023-06123-3<br>
