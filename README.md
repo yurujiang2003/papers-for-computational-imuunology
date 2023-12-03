@@ -42,7 +42,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn].<br>
 - [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)
     -PNAS<br>
     -Published: 23 January 2020<br>
-    -DOI: https://doi.org/10.1073/pnas.1914308117
+    -DOI: https://doi.org/10.1073/pnas.1914308117<br>
     `Celiac Disease` `HLA-DQ2.2` `TCR` `Immunogenicity` `Gliadin Peptides`
 
 - [Impact of Cysteine Residues on MHC Binding Predictions and Recognition by Tumor-Reactive T Cells](https://journals.aai.org/jimmunol/article/205/2/539/110175?casa_token=6XLQ4nJDd5MAAAAA:EpLWn0bx5osgeP1LOpCEQMVE34JJkOuOUUo_yZejq2pE7deTNxUjZlRjElPAVajGlV1Brg)<br>
