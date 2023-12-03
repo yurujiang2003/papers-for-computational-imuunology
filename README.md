@@ -74,7 +74,7 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
     -the Journal of Immunology<br>
     -Published: 15 July 2020<br>
     -DOI: https://doi.org/10.4049/jimmunol.1901173<br>
-    `MHC` `T cell` `cysteine residues``binding predictions`
+    `MHC` `T cell` `cysteine residues` `binding predictions`
 
 - [Specific Genetic Polymorphisms Contributing in Differential Binding of Gliadin Peptides to HLA-DQ and TCR to Elicit Immunogenicity in Celiac Disease](https://link.springer.com/article/10.1007/s10528-023-10377-x#Abs1)<br>
     -Biochemical Genetics<br>
