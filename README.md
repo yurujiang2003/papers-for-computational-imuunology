@@ -21,7 +21,6 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
     - [protein language model](#model-and-technology)
 - [Covid 19](#covid-19)
 
-<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Reviews-and-surveys
 
@@ -65,7 +64,6 @@ If you have any questions, please contact me at [3220102689@zju.edu.cn] or Kevin
 
 ## Intrinsic Disordered Protein
 
-<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
 - [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
