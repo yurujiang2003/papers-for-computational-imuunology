@@ -111,6 +111,12 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     -DOI: https://doi.org/10.1038/s41587-023-01957-8<br>
     `tumor-associated bacteria` `liposomal antibiotic` `neoantigens` `anti-tumor immune responses`
 
+- [The PTPN2/PTPN1 inhibitor ABBV-CLS-484 unleashes potent anti-tumour immunity](https://www.nature.com/articles/s41586-023-06575-7)<br>
+    -Nature<br>
+    -Published: 04 October 2023<br>
+    -DOI: https://doi.org/10.1038/s41586-023-06575-7<br>
+    `PTPN2` `PTPN1` `ABBV-CLS-484` `anti-tumour immunity`
+  
 - [Cancer- and infection-induced T cell exhaustion are distinct](https://www.nature.com/articles/s41590-023-01624-9)<br>
     -nature immunology<br>
     -Published: 14 November 2023<br>
