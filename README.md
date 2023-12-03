@@ -155,14 +155,12 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     -WIREs Computational Molecular Science<br>
     -Published: 27 November 2023<br>
     -DOI: https://doi.org/10.1002/wcms.1698<br>
-    -reviewed by Kevin Chan: 这个值得所有做ML相关一点的同学认真思考 也是CADD领域里ML最终能否outperform QSAR的关键问题<br>
     `multi-instance machine learning` `chemical complexity`
 
 - [TCR-H: Machine Learning Prediction of T-cell Receptor Epitope Binding on Unseen Datasets](https://www.biorxiv.org/content/10.1101/2023.11.28.569077v1)<br>
     -bioRxiv<br>
     -Published: 28 November 2023<br>
     -DOI: https://doi.org/10.1101/2023.11.28.569077<br>
-    -reviewed by Kevin Chan: 他们认为他们解决了negative data bias问题,文章写得很简短 也很清晰<br>
     `TCR` `machine learning` `negative data bias`
 
 
