@@ -27,11 +27,23 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 ### R Intrinsic Disordered Protein
 
 ### R Cancer Immunology
+- [Elements of cancer immunity and the cancer–immune set point](https://www.nature.com/articles/nature21349)<br>
+    -nature<br>
+    -Published:18 January 2017<br>
+    -DOI: https://doi.org/10.1038/nature21349<br>
+    `cancer immunity` `cancer–immune set point`
+- [Development of tumor mutation burden as an immunotherapy biomarker: utility for the oncology clinic](https://www.sciencedirect.com/science/article/pii/S0923753419309974)
+    -Annals of Oncology <br>
+    -Published: January 2019<br>
+    -DOI: https://doi.org/10.1093/annonc/mdy495<br>
+    `Tumor mutation burden` `Immunotherapy` `Biomarker` `Oncology clinic`
+
 - [T Cell Recognition of Tumor Neoantigens and Insights Into T Cell Immunotherapy](https://www.frontiersin.org/articles/10.3389/fimmu.2022.833017/full)<br>
     -frontiersin.org<br>
     -Published: 10 February 2022<br>
     -DOI: https://doi.org/10.3389/fimmu.2022.833017<br>
     `T cell` `neoantigen` `immunotherapy`
+
 ### R Model and Technology
 #### R Protein Language Model
 - [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)<br>
@@ -64,19 +76,46 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 
 ## Intrinsic Disordered Protein
 
+<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
-- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
+- [Distinct Molecular Mechanisms Account for the Specificity of Two Different T-Cell Receptors](https://pubs.acs.org/doi/abs/10.1021/bi026864+?casa_token=OWz2bpRMRKwAAAAA:nXnkLNSfGksVsMCXkytukGuvB0bF1ptncgCwB4Z8RyYNu_yq-7CAafXXLpjn9y21LNHdwbjsSzSlqg)
+    -Biochemistry<br>
+    -Published: 1 April 2003<br>
+    -DOI: https://doi.org/10.1021/bi026864+<br>
+    `T cell` `TCR` `specificity` `molecular mechanism`
+
+- [A dendritic cell vaccine increases the breadth and diversity of melanoma neoantigen-specific T cells](https://www.science.org/doi/abs/10.1126/science.aaa3828)<br>
+    -Science<br>
+    -Published: 2 April 2015<br>
+    -DOI: https://doi.org/10.1126/science.aaa3828<br>
+    `dendritic cell vaccine` `melanoma` `neoantigen-specific T cells`
+
+- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)
     -PNAS<br>
     -Published: 23 January 2020<br>
     -DOI: https://doi.org/10.1073/pnas.1914308117<br>
     `Celiac Disease` `HLA-DQ2.2` `TCR` `Immunogenicity` `Gliadin Peptides`
+
+-[Commensal bacteria stimulate antitumor responses via T cell cross-reactivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205429/)<br>
+    -JCI Insight<br>
+    -Published: 23 April 2020<br>
+    -DOI: https://doi.org/10.1172/jci.insight.135597<br>
+    `Commensal bacteria` `antitumor responses` `T cell cross-reactivity`
+
+
 
 - [Impact of Cysteine Residues on MHC Binding Predictions and Recognition by Tumor-Reactive T Cells](https://journals.aai.org/jimmunol/article/205/2/539/110175?casa_token=6XLQ4nJDd5MAAAAA:EpLWn0bx5osgeP1LOpCEQMVE34JJkOuOUUo_yZejq2pE7deTNxUjZlRjElPAVajGlV1Brg)<br>
     -the Journal of Immunology<br>
     -Published: 15 July 2020<br>
     -DOI: https://doi.org/10.4049/jimmunol.1901173<br>
     `MHC` `T cell` `cysteine residues` `binding predictions`
+
+- [Dynamics-Based Peptide–MHC Binding Optimization by a Convolutional Variational Autoencoder: A Use-Case Model for CASTELO](https://pubs.acs.org/doi/full/10.1021/acs.jctc.1c00870)<br>
+    -Journal of Chemical Theory and Computation<br>
+    -Published: 18 November 2021<br>
+    -DOI: https://doi.org/10.1021/acs.jctc.1c00870<br>
+    `MHC` `T cell` `binding predictions` `convolutional variational autoencoder`
 
 - [Specific Genetic Polymorphisms Contributing in Differential Binding of Gliadin Peptides to HLA-DQ and TCR to Elicit Immunogenicity in Celiac Disease](https://link.springer.com/article/10.1007/s10528-023-10377-x#Abs1)<br>
     -Biochemical Genetics<br>
@@ -85,11 +124,23 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     `Celiac Disease` `HLA-DQ` `TCR` `Immunogenicity` `Gliadin Peptides`
 
 - [Pan-KRAS inhibitor disables oncogenic signalling and
-tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
+tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     -nature<br>
     -Published: 31 May 2023<br>
     -DOI: https://doi.org/10.1038/s41586-023-06123-3<br>
     `KRAS` `pan-KRAS inhibitor` `oncogenic signalling` `tumour growth`
+
+- [A common allele of HLA is associated with asymptomatic SARS-CoV-2 infection](https://www.nature.com/articles/s41586-023-06331-x)<br>
+    -nature<br>
+    -Published: 19 July 2023<br>
+    -DOI: https://doi.org/10.1038/s41586-023-06331-x<br>
+    `HLA` `SARS-CoV-2` `asymptomatic infection`
+
+- [A membrane-associated MHC-I inhibitory axis for cancer immune evasion](https://www.cell.com/cell/pdf/S0092-8674(23)00783-3.pdf)<br>
+    -Cell<br>
+    -Published: 8 August 2023<br>
+    -DOI: https://doi.org/10.1016/j.cell.2023.07.026<br>
+    `MHC-I` `cancer immune evasion` `membrane-associated` `inhibitory axis`
 
 - [Chemical remodeling of a cellular chaperone to target the active state of mutant KRAS](https://www.science.org/doi/full/10.1126/science.adg9652?casa_token=YZtzYJhYntkAAAAA%3A7WsUudgDlDa7X4etI_e0axz0QsYmWa7wjhMeFC_aYvrMhx0O7_gMCDCLxzsYXIYm6RfN-hmPzYiA)<br>
     -Science<br>
@@ -114,7 +165,7 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -Published: 04 October 2023<br>
     -DOI: https://doi.org/10.1038/s41586-023-06575-7<br>
     `PTPN2` `PTPN1` `ABBV-CLS-484` `anti-tumour immunity`
-  
+
 - [Cancer- and infection-induced T cell exhaustion are distinct](https://www.nature.com/articles/s41590-023-01624-9)<br>
     -nature immunology<br>
     -Published: 14 November 2023<br>
@@ -131,6 +182,12 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
 
 ## Model and Technology
 ### protein language model
+- [DeepAntigen: a novel method for neoantigen prioritization via 3D genome and deep sparse learning](https://academic.oup.com/bioinformatics/article/36/19/4894/5864021)<br>
+    - Bioinformatics<br>
+    - Published: 11 September 2020<br>
+    - DOI: https://doi.org/10.1093/bioinformatics/btaa686<br>
+    `neoantigen` `3D genome` `deep sparse learning`
+
 - [ProtGPT2 is a deep unsupervised language model for protein design](https://www.nature.com/articles/s41467-022-32007-7)<br>
     -nature communications<br>
     -Published: 27 July 2022<br>
@@ -160,8 +217,7 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -Published: 28 November 2023<br>
     -DOI: https://doi.org/10.1101/2023.11.28.569077<br>
     `TCR` `machine learning` `negative data bias`
-
-
+ 
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
