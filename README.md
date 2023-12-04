@@ -32,7 +32,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -Published:18 January 2017<br>
     -DOI: https://doi.org/10.1038/nature21349<br>
     `cancer immunity` `cancer–immune set point`
-- [Development of tumor mutation burden as an immunotherapy biomarker: utility for the oncology clinic](https://www.sciencedirect.com/science/article/pii/S0923753419309974)
+- [Development of tumor mutation burden as an immunotherapy biomarker: utility for the oncology clinic](https://www.sciencedirect.com/science/article/pii/S0923753419309974)<br>
     -Annals of Oncology <br>
     -Published: January 2019<br>
     -DOI: https://doi.org/10.1093/annonc/mdy495<br>
@@ -79,7 +79,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
-- [Distinct Molecular Mechanisms Account for the Specificity of Two Different T-Cell Receptors](https://pubs.acs.org/doi/abs/10.1021/bi026864+?casa_token=OWz2bpRMRKwAAAAA:nXnkLNSfGksVsMCXkytukGuvB0bF1ptncgCwB4Z8RyYNu_yq-7CAafXXLpjn9y21LNHdwbjsSzSlqg)
+- [Distinct Molecular Mechanisms Account for the Specificity of Two Different T-Cell Receptors](https://pubs.acs.org/doi/abs/10.1021/bi026864+?casa_token=OWz2bpRMRKwAAAAA:nXnkLNSfGksVsMCXkytukGuvB0bF1ptncgCwB4Z8RyYNu_yq-7CAafXXLpjn9y21LNHdwbjsSzSlqg)<br>
     -Biochemistry<br>
     -Published: 1 April 2003<br>
     -DOI: https://doi.org/10.1021/bi026864+<br>
@@ -91,7 +91,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1126/science.aaa3828<br>
     `dendritic cell vaccine` `melanoma` `neoantigen-specific T cells`
 
-- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)
+- [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
     -PNAS<br>
     -Published: 23 January 2020<br>
     -DOI: https://doi.org/10.1073/pnas.1914308117<br>
@@ -171,7 +171,6 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     -Published: 14 November 2023<br>
     -DOI: https://doi.org/10.1038/s41590-023-01624-9<br>
     `T cell` `exhaustion` `cancer` `infection`
-
 - [Targeting of intracellular oncoproteins with peptide-centric CARs](https://www.nature.com/articles/s41586-023-06706-0)<br>
     -nature<br>
     -Published: 08 November 2023<br>
@@ -183,9 +182,9 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
 ## Model and Technology
 ### protein language model
 - [DeepAntigen: a novel method for neoantigen prioritization via 3D genome and deep sparse learning](https://academic.oup.com/bioinformatics/article/36/19/4894/5864021)<br>
-    - Bioinformatics<br>
-    - Published: 11 September 2020<br>
-    - DOI: https://doi.org/10.1093/bioinformatics/btaa686<br>
+  -Bioinformatics<br>
+  -Published: 11 September 2020<br>
+  -DOI: https://doi.org/10.1093/bioinformatics/btaa686<br>
     `neoantigen` `3D genome` `deep sparse learning`
 
 - [ProtGPT2 is a deep unsupervised language model for protein design](https://www.nature.com/articles/s41467-022-32007-7)<br>
