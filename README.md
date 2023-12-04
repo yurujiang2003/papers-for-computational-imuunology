@@ -19,14 +19,21 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 - [Cancer Immunology](#cancer-immunology)
 - [Model and Technology](#model-and-technology)
     - [protein language model](#model-and-technology)
-- [Covid 19](#covid-19)
+- [Covid-19](#covid-19)
 
+<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Reviews-and-surveys
 
 ### R Intrinsic Disordered Protein
 
 ### R Cancer Immunology
+- [Combining Immunotherapy and Radiotherapy for Cancer Treatment: Current Challenges and Future Directions](https://www.frontiersin.org/articles/10.3389/fphar.2018.00185/full)<br>
+    -frontiersin.org<br>
+    -Published: 05 March 2018<br>
+    -DOI: https://doi.org/10.3389/fphar.2018.00185<br>
+    `Immunotherapy` `Radiotherapy` `Cancer Treatment`
+
 - [Elements of cancer immunity and the cancer–immune set point](https://www.nature.com/articles/nature21349)<br>
     -nature<br>
     -Published:18 January 2017<br>
@@ -79,17 +86,47 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Cancer Immunology
+- [HLA supertypes and supermotifs: a functional perspective on HLA polymorphism](https://www.sciencedirect.com/science/article/abs/pii/S0952791598801246)<br>
+    -Current Opinion in Immunology<br>
+    -Published: August 1998<br>
+    -DOI: https://doi.org/10.1016/S0952-7915(98)80124-6<br>
+    `HLA` `supertypes` `supermotifs` `HLA polymorphism`
+
 - [Distinct Molecular Mechanisms Account for the Specificity of Two Different T-Cell Receptors](https://pubs.acs.org/doi/abs/10.1021/bi026864+?casa_token=OWz2bpRMRKwAAAAA:nXnkLNSfGksVsMCXkytukGuvB0bF1ptncgCwB4Z8RyYNu_yq-7CAafXXLpjn9y21LNHdwbjsSzSlqg)<br>
     -Biochemistry<br>
     -Published: 1 April 2003<br>
     -DOI: https://doi.org/10.1021/bi026864+<br>
     `T cell` `TCR` `specificity` `molecular mechanism`
 
+- [Examining Variable Domain Orientations in Antigen Receptors Gives Insight into TCR-Like Antibody Design](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003852)<br>
+    -PLOS Computational Biology<br>
+    -Published: 18 September 2014<br>
+    -DOI: https://doi.org/10.1371/journal.pcbi.1003852<br>
+    `T cell` `TCR` `antibody design` `variable domain orientations`
+
+- [Checkpoint blockade cancer immunotherapy targets tumour-specific mutant antigens](https://www.nature.com/articles/nature13988)<br>
+    -nature<br>
+    -Published: 26 November 2014<br>
+    -DOI: https://doi.org/10.1038/nature13988<br>
+    `checkpoint blockade` `cancer immunotherapy` `tumour-specific mutant antigens`
+
 - [A dendritic cell vaccine increases the breadth and diversity of melanoma neoantigen-specific T cells](https://www.science.org/doi/abs/10.1126/science.aaa3828)<br>
     -Science<br>
     -Published: 2 April 2015<br>
     -DOI: https://doi.org/10.1126/science.aaa3828<br>
     `dendritic cell vaccine` `melanoma` `neoantigen-specific T cells`
+
+- [A Public BCR Present in a Unique Dual-Receptor-Expressing Lymphocyte from Type 1 Diabetes Patients Encodes a Potent T Cell Autoantigen](https://www.cell.com/cell/pdf/S0092-8674(19)30505-7.pdf)<br>
+    -Cell<br>
+    -Published: 30 May 2019<br>
+    -DOI: https://doi.org/10.1016/j.cell.2019.02.007<br>
+    `BCR` `T cell` `autoantigen` `Type 1 Diabetes`
+
+- [Exploration of HIV-1 fusion peptide–antibody VRC34.01 binding reveals fundamental neutralization sites](https://pubs.rsc.org/en/content/articlehtml/2019/cp/c9cp02909e?casa_token=gJS1Tj2xf-cAAAAA:dY5_PA4288jR8Uzd7mu_5haAurnpNY4DD2h0Q0hY74u-tGkg5CwdGTkG6t3ZpeFUbm3jPoYoE02M)<br>
+    -Physical Chemistry Chemical Physics<br>
+    -Published: 08 August 2019<br>
+    -DOI: https://doi.org/10.1039/C9CP02909E<br>
+    `HIV-1` `fusion peptide` `antibody` `neutralization sites`
 
 - [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
     -PNAS<br>
@@ -103,7 +140,11 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1172/jci.insight.135597<br>
     `Commensal bacteria` `antitumor responses` `T cell cross-reactivity`
 
-
+- [High-affinity oligoclonal TCRs define effective adoptive T cell therapy targeting mutant KRAS-G12D](https://www.pnas.org/doi/abs/10.1073/pnas.1921964117)<br>
+    -PNAS<br>
+    -Published: 27 May 2020<br>
+    -DOI: https://doi.org/10.1073/pnas.1921964117<br>
+    `TCR` `T cell therapy` `mutant KRAS-G12D` `high-affinity oligoclonal`
 
 - [Impact of Cysteine Residues on MHC Binding Predictions and Recognition by Tumor-Reactive T Cells](https://journals.aai.org/jimmunol/article/205/2/539/110175?casa_token=6XLQ4nJDd5MAAAAA:EpLWn0bx5osgeP1LOpCEQMVE34JJkOuOUUo_yZejq2pE7deTNxUjZlRjElPAVajGlV1Brg)<br>
     -the Journal of Immunology<br>
@@ -111,11 +152,23 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.4049/jimmunol.1901173<br>
     `MHC` `T cell` `cysteine residues` `binding predictions`
 
+- [Canonical T cell receptor docking on peptide–MHC is essential for T cell signaling](https://www.science.org/doi/full/10.1126/science.abe9124?casa_token=6E3TFOrwX9cAAAAA%3AG6c7m5C92BCPW0YTwEPXN3_YDcWtc3Jq0pxhu3TTEDHquzXGfmau37E5iZrmfK3rfY-DS-wzB-I_)<br>
+    -Science<br>
+    -Published: 04 June 2020<br>
+    -DOI: https://doi.org/10.1126/science.abe9124<br>
+    `T cell receptor` `peptide–MHC` `T cell signaling`
+
 - [Dynamics-Based Peptide–MHC Binding Optimization by a Convolutional Variational Autoencoder: A Use-Case Model for CASTELO](https://pubs.acs.org/doi/full/10.1021/acs.jctc.1c00870)<br>
     -Journal of Chemical Theory and Computation<br>
     -Published: 18 November 2021<br>
     -DOI: https://doi.org/10.1021/acs.jctc.1c00870<br>
     `MHC` `T cell` `binding predictions` `convolutional variational autoencoder`
+
+- [Evaluating performance of existing computational models in predicting CD8+ T cell pathogenic epitopes and cancer neoantigens](https://academic.oup.com/bib/article/23/3/bbac141/6573960)<br>
+    -Briefings in Bioinformatics<br>
+    -Published: 25 April 2022<br>
+    -DOI: https://doi.org/10.1093/bib/bbac141<br>
+    `CD8+ T cell` `pathogenic epitopes` `cancer neoantigens` `computational models`
 
 - [Specific Genetic Polymorphisms Contributing in Differential Binding of Gliadin Peptides to HLA-DQ and TCR to Elicit Immunogenicity in Celiac Disease](https://link.springer.com/article/10.1007/s10528-023-10377-x#Abs1)<br>
     -Biochemical Genetics<br>
@@ -124,7 +177,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     `Celiac Disease` `HLA-DQ` `TCR` `Immunogenicity` `Gliadin Peptides`
 
 - [Pan-KRAS inhibitor disables oncogenic signalling and
-tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
+tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -nature<br>
     -Published: 31 May 2023<br>
     -DOI: https://doi.org/10.1038/s41586-023-06123-3<br>
@@ -171,6 +224,7 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     -Published: 14 November 2023<br>
     -DOI: https://doi.org/10.1038/s41590-023-01624-9<br>
     `T cell` `exhaustion` `cancer` `infection`
+
 - [Targeting of intracellular oncoproteins with peptide-centric CARs](https://www.nature.com/articles/s41586-023-06706-0)<br>
     -nature<br>
     -Published: 08 November 2023<br>
@@ -182,10 +236,16 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
 ## Model and Technology
 ### protein language model
 - [DeepAntigen: a novel method for neoantigen prioritization via 3D genome and deep sparse learning](https://academic.oup.com/bioinformatics/article/36/19/4894/5864021)<br>
-  -Bioinformatics<br>
-  -Published: 11 September 2020<br>
-  -DOI: https://doi.org/10.1093/bioinformatics/btaa686<br>
+    -Bioinformatics<br>
+    -Published: 11 September 2020<br>
+    -DOI: https://doi.org/10.1093/bioinformatics/btaa686<br>
     `neoantigen` `3D genome` `deep sparse learning`
+
+- [Evaluating performance of existing computational models in predicting CD8+ T cell pathogenic epitopes and cancer neoantigens](https://academic.oup.com/bib/article/23/3/bbac141/6573960)<br>
+    -Briefings in Bioinformatics<br>
+    -Published: 25 April 2022<br>
+    -DOI: https://doi.org/10.1093/bib/bbac141<br>
+    `CD8+ T cell` `pathogenic epitopes` `cancer neoantigens` `computational models`
 
 - [ProtGPT2 is a deep unsupervised language model for protein design](https://www.nature.com/articles/s41467-022-32007-7)<br>
     -nature communications<br>
@@ -226,6 +286,7 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)
     -Published: 30 March 2020<br>
     -DOI: http://dx.doi.org/10.1038/s41586-020-2180-5"<br>
     `SARS-COV-2` `ACE2` `spike protein` `receptor-binding domain` `crystal structure`
+
 
 
 
