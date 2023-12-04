@@ -19,6 +19,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 - [Cancer Immunology](#cancer-immunology)
 - [Model and Technology](#model-and-technology)
     - [protein language model](#model-and-technology)
+- [Drug Design](#drug-design)
 - [Covid-19](#covid-19)
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
@@ -231,6 +232,12 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -DOI: https://doi.org/10.3389%2F<br>
     `peptide-centric chimeric antigen receptors `
 
+- [Nanomedicine-based co-delivery of a calcium channel inhibitor and a small molecule tar- geting CD47 for lung cancer immunotherapy](https://www.nature.com/articles/s41467-023-42972-2)<br>
+    -nature communications<br>
+    -Published: 11 November 2023<br>
+    -DOI: https://doi.org/10.1038/s41467-023-42972-2<br>
+    `calcium channel inhibitor` `CD47` `lung cancer immunotherapy` `nanomedicine`
+
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #193441, #FCFFF5);">
 
 ## Model and Technology
@@ -252,6 +259,12 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -Published: 27 July 2022<br>
     -DOI: https://doi.org/10.1038/s41467-022-32007-7<br>
     `protein language model` `protein design` `deep learning`
+
+- [Identification of potent antimicrobial peptides via a machine-learning pipeline that mines the entire space of peptide sequences](https://www.nature.com/articles/s41551-022-00991-2)<br>
+    -Nature Biomedical Engineering<br>
+    -Published: 12 January 2023<br>
+    -DOI: https://doi.org/10.1038/s41551-022-00991-2<br>
+    `antimicrobial peptides` `machine-learning pipeline` `peptide sequences`
 
 - [Efficient evolution of human antibodies from general protein language models](https://www.nature.com/articles/s41587-023-01763-2)<br>
     -Nature Biotechnology<br>
@@ -278,6 +291,16 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     `TCR` `machine learning` `negative data bias`
  
 
+<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
+
+## Drug Design
+
+- [m<sup>1</sup>A in CAG repeat RNA binds to TDP-43 and induces neurodegeneration](https://www.nature.com/articles/s41586-023-06701-5)<br>
+    -nature<br>
+    -Published: 08 November 2023<br>
+    -DOI: https://doi.org/10.1038/s41586-023-06701-5<br>
+    `m1A` `CAG repeat RNA` `TDP-43` `neurodegeneration`
+  
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
 ## Covid-19
