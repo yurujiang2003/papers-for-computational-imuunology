@@ -97,7 +97,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1073/pnas.1914308117<br>
     `Celiac Disease` `HLA-DQ2.2` `TCR` `Immunogenicity` `Gliadin Peptides`
 
--[Commensal bacteria stimulate antitumor responses via T cell cross-reactivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205429/)<br>
+- [Commensal bacteria stimulate antitumor responses via T cell cross-reactivity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205429/)<br>
     -JCI Insight<br>
     -Published: 23 April 2020<br>
     -DOI: https://doi.org/10.1172/jci.insight.135597<br>
