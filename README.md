@@ -1,4 +1,4 @@
-# List of papers on computational immunology
+# List of papers on cancer immunology and ML_protein
 >this repository is inspired by [Kevin Kaichuang Yang](https://github.com/yangkky) and [Sean Peldom Zhang](https://github.com/Peldom). Their works [Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) and [papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) are so unparalleled that I can't help but to follow their steps. I establish the repository mainly for systematically organizing these papers read by iqb members, so that anyone interested in cancer immunology and machine learning for protein can learn about the latest achievement in the field thorough the papers. I will try my best to keep this repository updated. <br>
 If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or Kevin Chun CHAN [kevin@skblnw.com].<br>
 
@@ -10,12 +10,10 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 
 ## Content
 - [Reviews and Surveys](#reviews-and-surveys)
-    - [R-Intrinsic Disordered Protein](#r-intrinsic-disordered-protein)
     - [R-Cancer Immunology](#r-cancer-immunology)
     - [R-Model and Technology](#r-model-and-technology)
         - [R-Protein Language Model](#r-protein-language-model)
         - [R-Drug Design](#r-drug-design)
-- [Intrinsic Disordered Protein](#intrinsic-disordered-protein)
 - [Cancer Immunology](#cancer-immunology)
 - [Model and Technology](#model-and-technology)
     - [protein language model](#model-and-technology)
@@ -26,25 +24,72 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 
 ## Reviews-and-surveys
 
-### R Intrinsic Disordered Protein
-
 ### R Cancer Immunology
-- [Combining Immunotherapy and Radiotherapy for Cancer Treatment: Current Challenges and Future Directions](https://www.frontiersin.org/articles/10.3389/fphar.2018.00185/full)<br>
-    -frontiersin.org<br>
-    -Published: 05 March 2018<br>
-    -DOI: https://doi.org/10.3389/fphar.2018.00185<br>
-    `Immunotherapy` `Radiotherapy` `Cancer Treatment`
+- [T-cell antigen receptor genes and T-cell recognition](https://www.nature.com/articles/334395a0)<br>
+    -nature<br>
+    -Published: 01 August 1988<br>
+    -DOI: https://doi.org/10.1038/334395a0<br>
+    `T-cell antigen receptor` `T-cell recognition`
+
+- [Receptor Proximity, Not Intermolecular Orientation, Is Critical for Triggering T-cell Activation](https://www.jbc.org/article/S0021-9258(19)31608-4/fulltext)<br>
+    -Journal of Biological Chemistry<br>
+    -Published: 30 May 2001<br>
+    -DOI: https://doi.org/10.1074/jbc.270.37.21689<br>
+    `T-cell receptor` `T-cell activation`
+
+- [The HLA genomic loci map: expression, interaction, diversity and disease](https://www.nature.com/articles/jhg20085)<br>
+    -Journal of Human Genetics<br>
+    -Published: 09 January 2009<br>
+    -DOI: https://doi.org/10.1038/jhg.2008.5<br>
+    `HLA` `genomic loci` `expression` `interaction` `diversity` `disease`
 
 - [Elements of cancer immunity and the cancer–immune set point](https://www.nature.com/articles/nature21349)<br>
     -nature<br>
     -Published:18 January 2017<br>
     -DOI: https://doi.org/10.1038/nature21349<br>
     `cancer immunity` `cancer–immune set point`
+
+- [TCR Signaling: Mechanisms of Initiation and Propagation](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(17)30221-9)<br>
+    -Trends in Biochemical Sciences<br>
+    -Published: 18 December 2017<br>
+    -DOI: https://doi.org/10.1016/j.tibs.2017.03.008<br>
+    `TCR` `signaling` `initiation` `propagation`
+
+- [Combining Immunotherapy and Radiotherapy for Cancer Treatment: Current Challenges and Future Directions](https://www.frontiersin.org/articles/10.3389/fphar.2018.00185/full)<br>
+    -frontiersin.org<br>
+    -Published: 05 March 2018<br>
+    -DOI: https://doi.org/10.3389/fphar.2018.00185<br>
+    `Immunotherapy` `Radiotherapy` `Cancer Treatment`
+
+- [The hallmarks of successful anticancer immunotherapy](https://www.science.org/doi/full/10.1126/scitranslmed.aat7807?casa_token=bK0S0QybxEoAAAAA%3A4c87KS5_FqPcV6jrS6Ydd0VFbSt4BgRj0OXuizYYuoRoaJDwoYdOvYHb77Juy_UiI6HfYrmjELabsw)<br>
+    -Science Translational Medicine<br>
+    -Published: 19 September 2018<br>
+    -DOI: https://doi.org/10.1126/scitranslmed.aat7807<br>
+    `anticancer immunotherapy` `hallmarks`
+
 - [Development of tumor mutation burden as an immunotherapy biomarker: utility for the oncology clinic](https://www.sciencedirect.com/science/article/pii/S0923753419309974)<br>
     -Annals of Oncology <br>
     -Published: January 2019<br>
     -DOI: https://doi.org/10.1093/annonc/mdy495<br>
     `Tumor mutation burden` `Immunotherapy` `Biomarker` `Oncology clinic`
+
+- [The evolving landscape of biomarkers for checkpoint inhibitor immunotherapy](https://www.nature.com/articles/s41568-019-0116-x)<br>
+    -nature reviews cancer<br>
+    -Published: 12 February 2019<br>
+    -DOI: https://doi.org/10.1038/s41568-019-0116-x<br>
+    `biomarkers` `checkpoint inhibitor immunotherapy`
+
+- [Structure Based Prediction of Neoantigen Immunogenicity](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02047/full)<br>
+    -frontiersin.org<br>
+    -Published: 28 August 2019<br>
+    -DOI: https://doi.org/10.3389/fimmu.2019.02047<br>
+    `neoantigen` `immunogenicity`
+
+- [Tumour-intrinsic resistance to immune checkpoint blockade](https://www.nature.com/articles/s41577-019-0218-4)<br>
+    -nature review immunology<br>
+    -Published: 30 September 2019<br>
+    -DOI: https://doi.org/10.1038/s41577-019-0218-4<br>
+    `immune checkpoint blockade` `tumour-intrinsic resistance`
 
 - [T Cell Recognition of Tumor Neoantigens and Insights Into T Cell Immunotherapy](https://www.frontiersin.org/articles/10.3389/fimmu.2022.833017/full)<br>
     -frontiersin.org<br>
@@ -82,16 +127,18 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #193441, #FCFFF5);">
 
-## Intrinsic Disordered Protein
-
-<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
-
 ## Cancer Immunology
 - [HLA supertypes and supermotifs: a functional perspective on HLA polymorphism](https://www.sciencedirect.com/science/article/abs/pii/S0952791598801246)<br>
     -Current Opinion in Immunology<br>
     -Published: August 1998<br>
     -DOI: https://doi.org/10.1016/S0952-7915(98)80124-6<br>
     `HLA` `supertypes` `supermotifs` `HLA polymorphism`
+
+- [Thermodynamics of T cell receptor binding to peptide-MHC: Evidence for a general mechanism of molecular scanning](https://www.pnas.org/doi/abs/10.1073/pnas.96.20.11446)<br>
+    -PNAS<br>
+    -Published: 28 September 1999<br>
+    -DOI: https://doi.org/10.1073/pnas.96.20.11446<br>
+    `T cell receptor` `peptide-MHC` `molecular scanning`
 
 - [Distinct Molecular Mechanisms Account for the Specificity of Two Different T-Cell Receptors](https://pubs.acs.org/doi/abs/10.1021/bi026864+?casa_token=OWz2bpRMRKwAAAAA:nXnkLNSfGksVsMCXkytukGuvB0bF1ptncgCwB4Z8RyYNu_yq-7CAafXXLpjn9y21LNHdwbjsSzSlqg)<br>
     -Biochemistry<br>
@@ -116,6 +163,12 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -Published: 2 April 2015<br>
     -DOI: https://doi.org/10.1126/science.aaa3828<br>
     `dendritic cell vaccine` `melanoma` `neoantigen-specific T cells`
+
+- [T cell receptors for the HIV KK10 epitope from patients with differential immunologic control are functionally indistinguishable](https://www.pnas.org/doi/abs/10.1073/pnas.1718659115)<br>
+    -PNAS<br>
+    -Published: 07 February 2018<br>
+    -DOI: https://doi.org/10.1073/pnas.1718659115<br>
+    `T cell receptors` `HIV KK10 epitope` `differential immunologic control`
 
 - [A Public BCR Present in a Unique Dual-Receptor-Expressing Lymphocyte from Type 1 Diabetes Patients Encodes a Potent T Cell Autoantigen](https://www.cell.com/cell/pdf/S0092-8674(19)30505-7.pdf)<br>
     -Cell<br>
@@ -158,6 +211,18 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -Published: 04 June 2020<br>
     -DOI: https://doi.org/10.1126/science.abe9124<br>
     `T cell receptor` `peptide–MHC` `T cell signaling`
+
+- [Targeting a neoantigen derived from a common TP53 mutation](https://www.science.org/doi/full/10.1126/science.abc8697?casa_token=cmfnMEIa5RMAAAAA%3AZ2Lb-_1iUI9YIE__d9-49IJTJkIPI4RHQ5LK6UyF5tODFnrKwz_uTTu4pvbOeC7-CVt0Exgqa8PM6w)<br>
+    -Science<br>
+    -Published: 01 March 2021<br>
+    -DOI: https://doi.org/10.1126/science.abc8697<br>
+    `neoantigen` `TP53 mutation`
+
+- [Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers](https://www.nature.com/articles/s41586-021-03752-4)<br>
+    -nature<br>
+    -Published: 21 July 2021<br>
+    -DOI: https://doi.org/10.1038/s41586-021-03752-4<br>
+    `neoantigen-specific TIL` `anti-PD-1` `lung cancers`
 
 - [Dynamics-Based Peptide–MHC Binding Optimization by a Convolutional Variational Autoencoder: A Use-Case Model for CASTELO](https://pubs.acs.org/doi/full/10.1021/acs.jctc.1c00870)<br>
     -Journal of Chemical Theory and Computation<br>
@@ -309,18 +374,3 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -Published: 30 March 2020<br>
     -DOI: http://dx.doi.org/10.1038/s41586-020-2180-5"<br>
     `SARS-COV-2` `ACE2` `spike protein` `receptor-binding domain` `crystal structure`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
