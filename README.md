@@ -14,6 +14,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     - [R-Model and Technology](#r-model-and-technology)
         - [R-Protein Language Model](#r-protein-language-model)
         - [R-Drug Design](#r-drug-design)
+- [Letters](#letters)
 - [Cancer Immunology](#cancer-immunology)
 - [Model and Technology](#model-and-technology)
     - [protein language model](#model-and-technology)
@@ -43,11 +44,23 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1038/jhg.2008.5<br>
     `HLA` `genomic loci` `expression` `interaction` `diversity` `disease`
 
+- [Neoantigens in cancer immunotherapy](https://www.science.org/doi/abs/10.1126/science.aaa4971?casa_token=Rcn7b-lb7AQAAAAA:01QOb2lx4S6xYLYakDOwtKZeRwNGQRYajAiEMqjequ91XsNIbeg8EwTiTsGM5RLu_cx1FCcT2sLCcw)<br>
+    -Science<br>
+    -Published: 03 April 2015<br>
+    -DOI: https://doi.org/10.1126/science.aaa4971<br>
+    `neoantigens` `cancer immunotherapy`
+
 - [Elements of cancer immunity and the cancer–immune set point](https://www.nature.com/articles/nature21349)<br>
     -nature<br>
     -Published:18 January 2017<br>
     -DOI: https://doi.org/10.1038/nature21349<br>
     `cancer immunity` `cancer–immune set point`
+
+- [Patient HLA class I genotype influences cancer response to checkpoint blockade immunotherapy](https://www.science.org/doi/full/10.1126/science.aao4572?casa_token=qovDDlHWSQgAAAAA%3Ab1Hb0d0x2vt60ziNY4YJfXILDOObVZpLDoCe43zT53m2vEBHZ_ziH8SEWwF-AornNZciGTD927W9KA)<br>
+    -Science<br>
+    -Published: 07 December 2018<br>
+    -DOI: https://doi.org/10.1126/science.aao4572<br>
+    `HLA class I genotype` `cancer response` `checkpoint blockade immunotherapy`
 
 - [TCR Signaling: Mechanisms of Initiation and Propagation](https://www.cell.com/trends/biochemical-sciences/fulltext/S0968-0004(17)30221-9)<br>
     -Trends in Biochemical Sciences<br>
@@ -127,6 +140,16 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #193441, #FCFFF5);">
 
+## Letters
+
+- [Personalized RNA mutanome vaccines mobilize poly-specific therapeutic immunity against cancer](https://www.nature.com/articles/nature23003)<br>
+    -nature<br>
+    -Published: 05 July 2017<br>
+    -DOI: https://doi.org/10.1038/nature23003<br>
+    `RNA mutanome vaccines` `poly-specific therapeutic immunity` `cancer`
+
+<hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193442);">
+
 ## Cancer Immunology
 - [HLA supertypes and supermotifs: a functional perspective on HLA polymorphism](https://www.sciencedirect.com/science/article/abs/pii/S0952791598801246)<br>
     -Current Opinion in Immunology<br>
@@ -170,6 +193,24 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1073/pnas.1718659115<br>
     `T cell receptors` `HIV KK10 epitope` `differential immunologic control`
 
+- [Neoantigen vaccine generates intratumoral T cell responses in phase Ib glioblastoma trial](https://www.nature.com/articles/s41586-018-0792-9)<br>
+    -nature<br>
+    -Published: 29 December 2018<br>
+    -DOI: https://doi.org/10.1038/s41586-018-0792-9<br>
+    `neoantigen vaccine` `intratumoral T cell responses` `glioblastoma`
+
+- [Neoantigen-directed immune escape in lung cancer evolution](https://www.nature.com/articles/s41586-019-1032-7)<br>
+    -nature<br>
+    -Published: 20 March 2019<br>
+    -DOI: https://doi.org/10.1038/s41586-019-1032-7<br>
+    `neoantigen` `immune escape` `lung cancer`
+
+- [Quantitative Prediction of the Landscape of T Cell Epitope Immunogenicity in Sequence Space](https://www.frontiersin.org/articles/10.3389/fimmu.2019.00827/full)<br>
+    -frontiersin.org<br>
+    -Published: 16 April 2019<br>
+    -DOI: https://doi.org/10.3389/fimmu.2019.00827<br>
+    `T cell epitope` `immunogenicity` `sequence space`
+
 - [A Public BCR Present in a Unique Dual-Receptor-Expressing Lymphocyte from Type 1 Diabetes Patients Encodes a Potent T Cell Autoantigen](https://www.cell.com/cell/pdf/S0092-8674(19)30505-7.pdf)<br>
     -Cell<br>
     -Published: 30 May 2019<br>
@@ -211,6 +252,12 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -Published: 04 June 2020<br>
     -DOI: https://doi.org/10.1126/science.abe9124<br>
     `T cell receptor` `peptide–MHC` `T cell signaling`
+
+- [Predicting Cross-Reactivity and Antigen Specificity of T Cell Receptors](https://www.frontiersin.org/articles/10.3389/fimmu.2020.565096/full)<br>
+    -frontiersin.org<br>
+    -Published: 22 October 2020<br>
+    -DOI: https://doi.org/10.3389/fimmu.2020.565096<br>
+    `T cell receptor` `cross-reactivity` `antigen specificity`
 
 - [Targeting a neoantigen derived from a common TP53 mutation](https://www.science.org/doi/full/10.1126/science.abc8697?casa_token=cmfnMEIa5RMAAAAA%3AZ2Lb-_1iUI9YIE__d9-49IJTJkIPI4RHQ5LK6UyF5tODFnrKwz_uTTu4pvbOeC7-CVt0Exgqa8PM6w)<br>
     -Science<br>
