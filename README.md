@@ -1,4 +1,4 @@
-# List of papers on computational cancer immunology
+# List of papers on cancer immunology and ML_protein
 >this repository is inspired by [Kevin Kaichuang Yang](https://github.com/yangkky) and [Sean Peldom Zhang](https://github.com/Peldom). Their works [Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) and [papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) are so unparalleled that I can't help but to follow their steps. I establish the repository mainly for systematically organizing these papers read by iqb members, so that anyone interested in cancer immunology and machine learning for protein can learn about the latest achievement in the field thorough the papers. I will try my best to keep this repository updated. <br>
 If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or Kevin Chun CHAN [kevin@skblnw.com].<br>
 
@@ -20,6 +20,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     - [protein language model](#model-and-technology)
 - [Drug Design](#drug-design)
 - [Covid-19](#covid-19)
+- [Other](#other)
 
 <hr style="height:2px;border-width:0;background-image: linear-gradient(to right, #FCFFF5, #193441);">
 
@@ -421,3 +422,10 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -Published: 30 March 2020<br>
     -DOI: http://dx.doi.org/10.1038/s41586-020-2180-5"<br>
     `SARS-COV-2` `ACE2` `spike protein` `receptor-binding domain` `crystal structure`
+
+## Other
+- [Genetic risk converges on regulatory networks mediating early type 2 diabetes](https://www.nature.com/articles/s41586-023-06693-2)<br>
+    -nature<br>
+    -Published: 04 December 2023<br>
+    -DOI: https://doi.org/10.1038/s41586-023-06693-2<br>
+    `type 2 diabetes` `genetic risk` `regulatory networks`
