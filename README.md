@@ -1,4 +1,4 @@
-# List of papers on cancer immunology and ML_protein
+# List of papers on computational immunology and others
 >this repository is inspired by [Kevin Kaichuang Yang](https://github.com/yangkky) and [Sean Peldom Zhang](https://github.com/Peldom). Their works [Machine-learning-for-proteins](https://github.com/yangkky/Machine-learning-for-proteins) and [papers_for_protein_design_using_DL](https://github.com/Peldom/papers_for_protein_design_using_DL) are so unparalleled that I can't help but to follow their steps. I establish the repository mainly for systematically organizing these papers read by iqb members, so that anyone interested in cancer immunology and machine learning for protein can learn about the latest achievement in the field thorough the papers. I will try my best to keep this repository updated. <br>
 If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or Kevin Chun CHAN [kevin@skblnw.com].<br>
 
@@ -33,11 +33,29 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1038/334395a0<br>
     `T-cell antigen receptor` `T-cell recognition`
 
+- [Immunophilin-sensitive protein phosphatase action in cell signaling pathways](https://www.sciencedirect.com/science/article/abs/pii/0092867492901589)<br>
+    -Cell<br>
+    -Published: 07 August 1992<br>
+    -DOI: https://doi.org/10.1016/0092-8674(92)90158-9<br>
+    `Immunophilin-sensitive protein phosphatase` `cell signaling pathways`
+
 - [Receptor Proximity, Not Intermolecular Orientation, Is Critical for Triggering T-cell Activation](https://www.jbc.org/article/S0021-9258(19)31608-4/fulltext)<br>
     -Journal of Biological Chemistry<br>
     -Published: 30 May 2001<br>
     -DOI: https://doi.org/10.1074/jbc.270.37.21689<br>
     `T-cell receptor` `T-cell activation`
+
+- [How T cells 'see' antigen](https://www.nature.com/articles/ni1173)<br>
+    -nature immunology<br>
+    -Published: 18 February 2005<br>
+    -DOI: https://doi.org/10.1038/ni1173<br>
+    `T cells` `antigen`
+
+- [How TCRs Bind MHCs, Peptides, and Coreceptors](https://www.annualreviews.org/doi/abs/10.1146/annurev.immunol.23.021704.115658?casa_token=UX5NPq3yCSwAAAAA%3AC0QwSB3EHkzUhuPtEk6hcsG7q0eKQEwITESyblVpueLN_zSgnHzXtgW0IRYCZwY2ecsziKAWaxWX)<br>
+    -Annual Review of Immunology<br>
+    -Published: 16 January 2006<br>
+    -DOI: https://doi.org/10.1146/annurev.immunol.23.021704.115658<br>
+    `TCRs` `MHCs` `peptides` `coreceptors`
 
 - [The HLA genomic loci map: expression, interaction, diversity and disease](https://www.nature.com/articles/jhg20085)<br>
     -Journal of Human Genetics<br>
@@ -56,6 +74,12 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -Published:18 January 2017<br>
     -DOI: https://doi.org/10.1038/nature21349<br>
     `cancer immunity` `cancer–immune set point`
+
+[Identification and Characterization of Neoantigens As Well As Respective Immune Responses in Cancer Patients](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01702/full)<br>
+    -frontiersin.org<br>
+    -Published: 30 December 2017<br>
+    -DOI: https://doi.org/10.3389/fimmu.2017.01702<br>
+    `neoantigens` `immune responses` `cancer patients`
 
 - [Patient HLA class I genotype influences cancer response to checkpoint blockade immunotherapy](https://www.science.org/doi/full/10.1126/science.aao4572?casa_token=qovDDlHWSQgAAAAA%3Ab1Hb0d0x2vt60ziNY4YJfXILDOObVZpLDoCe43zT53m2vEBHZ_ziH8SEWwF-AornNZciGTD927W9KA)<br>
     -Science<br>
@@ -170,6 +194,12 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1021/bi026864+<br>
     `T cell` `TCR` `specificity` `molecular mechanism`
 
+- [Large Scale Characterization of the LC13 TCR and HLA-B8 Structural Landscape in Reaction to 172 Altered Peptide Ligands: A Molecular Dynamics Simulation Study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003748)<br>
+    -PLOS Computational Biology<br>
+    -Published: 07 April 2014<br>
+    -DOI: https://doi.org/10.1371/journal.pcbi.1003748<br>
+    `LC13 TCR` `HLA-B8` `altered peptide ligands` `molecular dynamics simulation`
+
 - [Examining Variable Domain Orientations in Antigen Receptors Gives Insight into TCR-Like Antibody Design](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003852)<br>
     -PLOS Computational Biology<br>
     -Published: 18 September 2014<br>
@@ -188,11 +218,23 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1126/science.aaa3828<br>
     `dendritic cell vaccine` `melanoma` `neoantigen-specific T cells`
 
+- [How structural adaptability exists alongside HLA-A2 bias in the human αβ TCR repertoire](https://www.pnas.org/doi/abs/10.1073/pnas.1522069113)<br>
+    -PNAS<br>
+    -Published: 16 February 2016<br>
+    -DOI: https://doi.org/10.1073/pnas.1522069113<br>
+    `HLA-A2 bias` `human αβ TCR repertoire`
+
 - [T cell receptors for the HIV KK10 epitope from patients with differential immunologic control are functionally indistinguishable](https://www.pnas.org/doi/abs/10.1073/pnas.1718659115)<br>
     -PNAS<br>
     -Published: 07 February 2018<br>
     -DOI: https://doi.org/10.1073/pnas.1718659115<br>
     `T cell receptors` `HIV KK10 epitope` `differential immunologic control`
+
+- [Improving T Cell Receptor On-Target Specificity via Structure-Guided Design](https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016(18)30594-X)<br>
+    -Molecular Therapy<br>
+    -Published: 04 April 2018<br>
+    -DOI: https://doi.org/10.1016/j.ymthe.2018.03.018<br>
+    `T cell receptor` `on-target specificity` `structure-guided design`
 
 - [Neoantigen vaccine generates intratumoral T cell responses in phase Ib glioblastoma trial](https://www.nature.com/articles/s41586-018-0792-9)<br>
     -nature<br>
@@ -223,6 +265,12 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -Published: 08 August 2019<br>
     -DOI: https://doi.org/10.1039/C9CP02909E<br>
     `HIV-1` `fusion peptide` `antibody` `neutralization sites`
+
+- [MHC-II neoantigens shape tumour immunity and response to immunotherapy](https://www.nature.com/articles/s41586-019-1671-8)<br>
+    -nature<br>
+    -Published: 23 October 2019<br>
+    -DOI: https://doi.org/10.1038/s41586-019-1671-8<br>
+    `MHC-II neoantigens` `tumour immunity` `immunotherapy`
 
 - [A molecular basis for the T cell response in HLA-DQ2.2 mediated celiac disease](https://www.pnas.org/doi/abs/10.1073/pnas.1914308117)<br>
     -PNAS<br>
@@ -260,11 +308,29 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.3389/fimmu.2020.565096<br>
     `T cell receptor` `cross-reactivity` `antigen specificity`
 
+- [Mutational landscape influences immunotherapy outcomes among patients with non-small-cell lung cancer with human leukocyte antigen supertype B44](https://www.nature.com/articles/s43018-020-00140-1)<br>
+    -nature cancer<br>
+    -Published: 16 November 2020<br>
+    -DOI: https://doi.org/10.1038/s43018-020-00140-1<br>
+    `mutational landscape` `immunotherapy` `non-small-cell lung cancer` `human leukocyte antigen supertype B44`
+
+- [Identification of bacteria-derived HLA-bound peptides in melanoma](https://www.nature.com/articles/s41586-021-03368-8)<br>
+    -nature<br>
+    -Published: 17 March 2021<br>
+    -DOI: https://doi.org/10.1038/s41586-021-03368-8<br>
+    `bacteria-derived` `HLA-bound peptides` `melanoma`
+
 - [Targeting a neoantigen derived from a common TP53 mutation](https://www.science.org/doi/full/10.1126/science.abc8697?casa_token=cmfnMEIa5RMAAAAA%3AZ2Lb-_1iUI9YIE__d9-49IJTJkIPI4RHQ5LK6UyF5tODFnrKwz_uTTu4pvbOeC7-CVt0Exgqa8PM6w)<br>
     -Science<br>
     -Published: 01 March 2021<br>
     -DOI: https://doi.org/10.1126/science.abc8697<br>
     `neoantigen` `TP53 mutation`
+
+- [Neoantigen Controversies](https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-092820-112713)<br>
+    -Annual Review of Biomedical Data Science<br>
+    -Published: 08 July 2021<br>
+    -DOI: https://doi.org/10.1146/annurev-biodatasci-092820-112713<br>
+    `neoantigen` `controversies`
 
 - [Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers](https://www.nature.com/articles/s41586-021-03752-4)<br>
     -nature<br>
