@@ -75,7 +75,7 @@ If you have any questions, please contact me at [tintinjiangiwls@gmail.com] or K
     -DOI: https://doi.org/10.1038/nature21349<br>
     `cancer immunity` `cancer–immune set point`
 
-- [Identification and Characterization of Neoantigens As Well As Respective Immune Responses in Cancer Patients](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01702/full)<br>
+[Identification and Characterization of Neoantigens As Well As Respective Immune Responses in Cancer Patients](https://www.frontiersin.org/articles/10.3389/fimmu.2017.01702/full)<br>
     -frontiersin.org<br>
     -Published: 30 December 2017<br>
     -DOI: https://doi.org/10.3389/fimmu.2017.01702<br>
@@ -445,6 +445,18 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -DOI: https://doi.org/10.1038/s41551-022-00991-2<br>
     `antimicrobial peptides` `machine-learning pipeline` `peptide sequences`
 
+- [ Improve the Protein Complex Prediction with Protein Language Models](https://www.biorxiv.org/content/10.1101/2022.09.15.508065v2.abstract)<br>
+    -bioRxiv<br>
+    -Published: 15 September 2022<br>
+    -DOI: https://doi.org/10.1101/2022.09.15.508065<br>
+    `protein complex` `protein language model` `protein-protein interaction`
+
+- [Active learning guided drug design lead optimization based on relative binding free energy modeling](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01052?casa_token=r_uHwLINxgAAAAAA%3AaHhKpzxiBxif-wag2L8FJ7vrMMWM57TnaLHtoAZB3m5zEAMHglS5UDF4fZf6HGIjqlED1wG3hlI4e0Q)<br>
+    -Journal of Chemical Information and Modeling<br>
+    -Published: 04 January 2023<br>
+    -DOI: https://doi.org/10.1021/acs.jcim.2c01052<br>
+    `active learning` `drug design` `lead optimization` `relative binding free energy modeling`
+
 - [Efficient evolution of human antibodies from general protein language models](https://www.nature.com/articles/s41587-023-01763-2)<br>
     -Nature Biotechnology<br>
     -Published: 24 April 2023<br>
@@ -456,6 +468,31 @@ tumour growth](https://www.nature.com/articles/s41586-023-06123-3)<br>
     -Published: 29 March 2022<br>
     -DOI: https://doi.org/10.1038/s41467-022-29331-3<br>
     `protein` `allosteric interactions` `molecular dynamics simulations` `neural network`
+
+- [AlphaDrug: Protein target specific de novo molecular generation](https://academic.oup.com/pnasnexus/article/1/4/pgac227/6751929)<br>
+    -PNAS Nexus<br>
+    -Published: 01 April 2022<br>
+    -DOI: https://doi.org/10.1093/pnasnexus/pgac227<br>
+    `protein target` `de novo molecular generation` `AlphaDrug`
+
+- [Robust deep learning–based protein sequence design using ProteinMPNN](https://www.science.org/doi/full/10.1126/science.add2187?casa_token=NvmjY29LjcUAAAAA%3ALvNP26c3IUa79Ko5Jtog4Y4zj_dEGQq3Bo26bcvB2XvlUxQ5M0rNlwbm-OxyhVFne_MtN22V-NEi7w)<br>
+    -Science<br>
+    -Published: 15 September 2022<br>
+    -DOI: https://doi.org/10.1126/science.add2187<br>
+    `protein sequence design` `deep learning` `ProteinMPNN`
+
+- [Pre-Training of Equivariant Graph Matching Networks with
+Conformation Flexibility for Drug Binding](https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202203796)<br>
+    -Advanced Science<br>
+    -Published: 06 October 2022<br>
+    -DOI: https://doi.org/10.1002/advs.202203796<br>
+    `equivariant graph matching networks` `drug binding` `conformation flexibility`
+
+- [ONE TRANSFORMER CAN UNDERSTAND BOTH 2D & 3D MOLECULAR DATA](https://arxiv.org/abs/2210.01765)<br>
+    -arXiv<br>
+    -Published: 04 October 2022<br>
+    -DOI: https://arxiv.org/abs/2210.01765<br>
+    `transformer` `2D` `3D` `molecular data`
 
 - [Chemical complexity challenge: Is multi-instance machine learning a solution?](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1698)<br>
     -WIREs Computational Molecular Science<br>
